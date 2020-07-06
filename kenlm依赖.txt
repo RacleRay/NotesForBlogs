@@ -1,0 +1,4 @@
+To get a working compiler, install the build-essential package. Boost is known as libboost-all-dev. The three supported compression options each have a separate dev package.
+sudo apt-get install build-essential libboost-all-dev cmake zlib1g-dev libbz2-dev liblzma-dev
+
+https://kheafield.com/code/kenlm/dependencies/
