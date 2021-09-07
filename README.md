@@ -1,1 +1,5 @@
-# NotesForBlogs
+# NotesForBlogs [**Useless**]
+
+!!! 凌乱的rpeo，忽略它的存在
+
+Blog相关内容的链接文件。一开始写博客的时候，完全没有条理，所以有了这个乱糟糟的repo。整理也没啥意义，博客内容也不怎么样。所以姑且这样吧。
